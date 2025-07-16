@@ -26,7 +26,7 @@ DB_PORT=your_sqlserver_port
 
 1. Go to `backend/`
 2. Run `npm install`
-3. Create `.env` file (copy from `.env.example`)
+3. Create `.env` file (base on `.env.example`)
 4. Start server:
 
    ```bash

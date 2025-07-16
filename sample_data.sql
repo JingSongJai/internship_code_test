@@ -1,0 +1,15 @@
+insert into PRODUCTS (PRODUCTNAME, PRICE, STOCK) values ('Honey Mustard Sauce', 244.1, 224);
+insert into PRODUCTS (PRODUCTNAME, PRICE, STOCK) values ('Sweet and Sour Sauce', 321.71, 3);
+insert into PRODUCTS (PRODUCTNAME, PRICE, STOCK) values ('Personal Blender with Travel Cup', 185.67, 268);
+insert into PRODUCTS (PRODUCTNAME, PRICE, STOCK) values ('Surimi Crab Sticks', 209.3, 190);
+insert into PRODUCTS (PRODUCTNAME, PRICE, STOCK) values ('Golf Polo Shirt', 216.9, 141);
+insert into PRODUCTS (PRODUCTNAME, PRICE, STOCK) values ('Oven-Baked Parmesan Zucchini', 481.55, 122);
+insert into PRODUCTS (PRODUCTNAME, PRICE, STOCK) values ('Reversible Comforter Set', 176.98, 292);
+insert into PRODUCTS (PRODUCTNAME, PRICE, STOCK) values ('Pasta Salad Kit', 336.3, 96);
+insert into PRODUCTS (PRODUCTNAME, PRICE, STOCK) values ('Kids'' Craft Supplies Set', 346.61, 126);
+insert into PRODUCTS (PRODUCTNAME, PRICE, STOCK) values ('Weighted Blanket', 314.2, 110);
+insert into PRODUCTS (PRODUCTNAME, PRICE, STOCK) values ('Lemon Basil Pasta Sauce', 123.9, 274);
+insert into PRODUCTS (PRODUCTNAME, PRICE, STOCK) values ('Gluten-Free Pancake Mix', 217.58, 233);
+insert into PRODUCTS (PRODUCTNAME, PRICE, STOCK) values ('Fashionable Scarves Set', 112.65, 259);
+insert into PRODUCTS (PRODUCTNAME, PRICE, STOCK) values ('Balsamic Vinaigrette', 241.75, 35);
+insert into PRODUCTS (PRODUCTNAME, PRICE, STOCK) values ('Utility Cargo Pants', 370.51, 251);
