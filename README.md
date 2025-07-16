@@ -95,6 +95,11 @@ Or change `10.0.2.2` to your actual IP on physical device.
 
 # 3. Screenshots
 
+<p float="left">
+  <img width="1080" height="2340" alt="Screenshot_1752658784" src="https://github.com/user-attachments/assets/3a16e4f2-0ecc-4ec3-958e-859b5b5f04b7" width="30%" />
+  <img width="1080" height="2340" alt="Screenshot_1752666229" src="https://github.com/user-attachments/assets/5b75775b-3fba-4bd6-a52b-ae16a23ec8da" width="30%" />
+  <img width="1080" height="2340" alt="Screenshot_1752666258" src="https://github.com/user-attachments/assets/d8d54e64-d217-4ebe-b18e-3954bd83661e" width="30%" />
+</p>
 ---
 
 ## Author
